@@ -1,4 +1,4 @@
-# CustomerTransacionPrediction
+# CustomerTransactionPrediction
 ## Introduction
 * Customer transaction prediction is a competition on Kaggle hosted by Baco Santander.
 * In this challenge the aim was to identify which customers will make a specific transaction iin the future, irrespective of the amount of money transacted. 
